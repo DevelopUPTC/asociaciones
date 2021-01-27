@@ -90,3 +90,11 @@ public class StudentMatter {
 ```
 
 Para aspectos como agregar notas, es necesario que el comportamiento se defina y se implemente en cada clase vinculada, lo anterior por cuanto cada una de esta clase tiene una referencia o instancia diferente de la clase de asociación, entonces es necesario que cada instancia contenga sus respectivas notas. En el código se debe asegurar la integridad y coherencia de los datos, es decir, que cada arreglo o colección contenga las mismas notas, lo anterior sería responsabilidad de una clase superior encargada de gestionar las clases principales y que no está contemplada en el modelo.
+
+## Herramientas usadas
+
+- starUML
+- Java 11.
+- JUnit 5
+- IntelliJIdea
+
